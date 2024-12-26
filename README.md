@@ -35,9 +35,9 @@ A **chat application** developed in **Java** using **Firebase** for backend, **J
 
 ## 📬 How to Reach Me
 
-- **LinkedIn**: [Aman Hasan - LinkedIn](https://www.linkedin.com/in/aman-hasan) 💼
-- **Email**: [aman.hasan@example.com](mailto:aman.hasan@example.com) 📧
-- **GitHub**: [Aman Hasan - GitHub](https://github.com/aman-hasan) 👨‍💻
+- **LinkedIn**: [Aman Hasan - LinkedIn](https://www.linkedin.com/in/aman-hasan-23415018a/) 💼
+- **Email**: [aman.hasan@example.com](mailto:aman08081@gmail.com) 📧
+- **GitHub**: [Aman Hasan - GitHub](https://github.com/amanhasank) 👨‍💻
 
 Feel free to explore my repositories and contribute to any of my open-source projects. If you have any questions, don't hesitate to reach out! 😄
 
