@@ -1,84 +1,45 @@
-Hi there 👋, I'm Aman Hasan!
+# Aman Hasan - DevOps Engineer 👨‍💻
 
-Welcome to my GitHub profile! I'm a DevOps Engineer with over 3.4 years of experience designing, automating, and optimizing scalable solutions using cutting-edge technologies. I love solving problems, automating workflows, and learning new tools and technologies.
+Welcome to my GitHub profile! 👋  
+I am a passionate and results-driven **DevOps Engineer** with over **3.4 years of experience** in automating, managing, and optimizing development and deployment pipelines. My expertise spans across tools and technologies like **Docker**, **Kubernetes**, **AWS**, **OpenTelemetry**, and more. I am continuously learning and exploring new technologies to improve efficiency and enhance system reliability.
 
-🚀 About Me
+## 🚀 Skills & Technologies
 
-🌱 Learning: Continuously improving my skills in OpenTelemetry, Cloud Observability, and Site Reliability Engineering.
+- **Cloud Platforms**: 🌥️ AWS (EC2, RDS, Lambda, S3, CloudWatch, Kinesis, etc.)
+- **Containerization & Orchestration**: 🐳 Docker, Kubernetes, Docker Swarm
+- **CI/CD & Automation**: ⚙️ Jenkins, GitLab CI, CircleCI, GitHub Actions
+- **Infrastructure as Code (IaC)**: 🛠️ Terraform, AWS CloudFormation
+- **Monitoring & Logging**: 📊 Prometheus, Grafana, OpenTelemetry, AWS CloudWatch, Wazuh
+- **Version Control**: 🧑‍💻 Git, GitHub, GitLab
+- **Scripting**: 📝 Bash, Python, YAML, JSON
+- **Databases**: 🗄️ PostgreSQL, MySQL, Redis
+- **Web Technologies**: 🌐 Nginx, Apache, Traefik
+- **Security & Compliance**: 🔐 AWS KMS, IAM, Security Groups, SSL/TLS
 
-💼 Experience: Expertise in tools and platforms like Docker, Kubernetes, AWS, and CI/CD Pipelines.
+## 🌱 Projects
 
-🎯 Projects: Passionate about building impactful solutions, like:
+### **YouTube Video Automation** 🎥
+- Developed an automation system that manages video uploads, metadata updates, and scheduling on YouTube.
+- Utilized **YouTube Data API** and integrated it with a **CI/CD pipeline** to automate the video posting process.
 
-YouTube Video Automation: A pipeline to automate video uploads, thumbnails, and metadata.
+### **Automated Testing Framework** 🧪
+- Built a robust automated testing framework for continuous integration, focusing on functional and integration tests.
+- Implemented integration with **Jenkins** for running tests on every code commit and deployment.
 
-Automated Testing Framework: Streamlining QA workflows with robust and scalable automation.
+### **Multi-Tier Web Application** 🌐
+- Designed and deployed a multi-tier web application architecture with **microservices** running in **Docker containers** and orchestrated using **Kubernetes**.
+- Configured **AWS RDS** for database management and used **Elastic Load Balancers** for high availability and fault tolerance.
 
-Multi-Tier Web Application: Deploying fault-tolerant, secure, and scalable apps in the cloud.
+### **ConnectME** 📱
+A **chat application** developed in **Java** using **Firebase** for backend, **Jenkins** for CI/CD, and **App Center** for app distribution, reducing build and deployment times by **50%** and **40%** respectively.
 
-💬 Ask Me About: DevOps, Container Orchestration, Infrastructure as Code (IaC), and Cloud Architectures.
+## 📬 How to Reach Me
 
-📫 Reach Out: aman.hasan@example.com
+- **LinkedIn**: [Aman Hasan - LinkedIn](https://www.linkedin.com/in/aman-hasan) 💼
+- **Email**: [aman.hasan@example.com](mailto:aman.hasan@example.com) 📧
+- **GitHub**: [Aman Hasan - GitHub](https://github.com/aman-hasan) 👨‍💻
 
-🛠 Tech Stack
+Feel free to explore my repositories and contribute to any of my open-source projects. If you have any questions, don't hesitate to reach out! 😄
 
-Languages:
-
-
-
-
-DevOps Tools:
-
-
-
-
-
-
-Cloud Platforms:
-
-
-
-
-Monitoring & Observability:
-
-
-
-
-
-Version Control & CI/CD:
-
-
-
-
-
-📊 GitHub Stats
-
-
-
-
-🚧 Featured Projects
-
-YouTube Video Automation
-
-A pipeline to automate YouTube video uploads, thumbnail generation, and metadata management, improving efficiency for content creators.
-
-Automated Testing Framework
-
-A robust testing framework that streamlines QA workflows, integrates seamlessly with CI/CD pipelines, and supports scalable parallel testing.
-
-Multi-Tier Web Application
-
-A highly available, fault-tolerant, and secure web application deployed using Kubernetes and AWS services.
-
-🎉 Fun Facts
-
-🏔️ When I’m not working, you’ll find me hiking or exploring photography.
-
-📖 I’m an avid reader of DevOps and cloud-native technology blogs.
-
-
-
-🌐 Connect With Me
-
-
-
+---
+> “Strive not to be a success, but rather to be of value.” – **Albert Einstein** 🌟
