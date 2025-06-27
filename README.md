@@ -1,7 +1,7 @@
 # Aman Hasan - DevOps Engineer 👨‍💻
 
 Welcome to my GitHub profile! 👋  
-I am a passionate and results-driven **DevOps Engineer** with over **3.4 years of experience** in automating, managing, and optimizing development and deployment pipelines. My expertise spans across tools and technologies like **Docker**, **Kubernetes**, **AWS**, **OpenTelemetry**, and more. I am continuously learning and exploring new technologies to improve efficiency and enhance system reliability.
+I am a passionate and results-driven **DevOps Engineer** with over **4 years of experience** in automating, managing, and optimizing development and deployment pipelines. My expertise spans across tools and technologies like **Docker**, **Kubernetes**, **AWS**, **OpenTelemetry**, and more. I am continuously learning and exploring new technologies to improve efficiency and enhance system reliability.
 
 ## 🚀 Skills & Technologies
 
