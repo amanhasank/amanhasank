@@ -1,7 +1,19 @@
-# Aman Hasan - DevOps Engineer 👨‍💻
+**🚀 Welcome to my GitHub! 👋**
+I'm a passionate and results-oriented **Senior DevOps Engineer** with 4+ years of hands-on experience designing, automating, and managing scalable cloud-native infrastructure.
 
-Welcome to my GitHub profile! 👋  
-I am a passionate and results-driven **DevOps Engineer** with over **4 years of experience** in automating, managing, and optimizing development and deployment pipelines. My expertise spans across tools and technologies like **Docker**, **Kubernetes**, **AWS**, **OpenTelemetry**, and more. I am continuously learning and exploring new technologies to improve efficiency and enhance system reliability.
+🔧 I specialize in:
+
+**AWS Cloud Engineering**: Architected secure, scalable infrastructures using services like EKS, EC2, RDS, S3, IAM, and more.
+
+**Containerization & Orchestration**: Deep experience with Docker, Kubernetes (EKS), and Helm to streamline deployments and scale applications reliably.
+
+**Infrastructure as Code**: Proficient in Terraform and CloudFormation for automating infra provisioning across environments.
+
+**CI/CD Pipelines**: Built robust delivery pipelines using GitHub Actions, Jenkins, and GitOps tools like ArgoCD.
+
+**Observability & Security**: Implemented end-to-end monitoring and logging with OpenTelemetry, Grafana, Prometheus, and Wazuh; enforced least-privilege IAM and VPC security controls.
+
+**Cost Optimization & Automation**: Leveraged tools like Karpenter, Kubecost, and custom scripts to optimize cloud usage and improve operational efficiency.
 
 ## 🚀 Skills & Technologies
 
